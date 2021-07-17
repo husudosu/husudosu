@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @husudosu
-- 👀 I’m interested in API, mobile app development, vintage computing
+- 👀 I’m interested in API (Python), mobile app development, vintage computing
 - 🌱 I’m currently learning Ionic VUE 
 - 💞️ I’m looking to collaborate on Web scraping, website development
 - 📫 How to reach me: husudosu94@gmail.com
