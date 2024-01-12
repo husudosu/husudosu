@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @husudosu
-- 👀 I’m interested in API (Python), Vue, mobile app development, vintage computing
-- 🌱 I’m currently learning Typescript
+- 👀 I’m interested in API (Python), mobile app development, vintage computing
+- 🌱 I’m currently learning React, React Native, Java Spring
 - 💞️ I’m looking to collaborate on Web scraping, backend REST API development
-- :construction_worker: I'm currently working on: A self-hosted kanban system. Stack: Docker + PGSQL + Flask + Vue 3 TS...
+- :construction_worker: I'm currently working on: A REST API boilerplate (Flask) for my future projects.
 - 📫 How to reach me: husudosu94@gmail.com
 
 
