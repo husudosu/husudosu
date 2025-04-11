@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @husudosu
 - 👀 I’m interested in API (Python), mobile app development, vintage computing
 - 🌱 I’m currently learning React, React Native, Java Spring
-- 💞️ I’m looking to collaborate on Web scraping, backend REST API development
-- :construction_worker: I'm currently working on: A REST API boilerplate (Flask) for my future projects.
+- 💞️ I’m looking to collaborate on Web scraping, full stack development
+- :construction_worker: I'm currently working on: A REST API boilerplate (FastAPI+React) for my future projects.
 - 📫 How to reach me: husudosu94@gmail.com
 
 
